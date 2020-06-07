@@ -1,3 +1,5 @@
 RTOS Project
 
-ShareDoc
+To run:
+`npm install`
+`npm run`
